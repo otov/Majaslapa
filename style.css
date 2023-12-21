@@ -1,0 +1,51 @@
+body{
+    background-color: skyblue;
+    color: white;
+}
+h1{
+    color: white; 
+    font-size:45px;
+}
+h2{
+    color: white;
+    font-size:25px;
+    
+}
+div{
+        color: white;
+        font-size :23px;
+        
+        
+}
+table, th, td {
+    border: 2px solid white;
+    border-collapse: collapse;
+    font-size:20px;
+    text-align: left;
+  }
+  header {
+    background-color: lightslategray;
+    padding: 5px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+  }
+  section {
+    display: -webkit-flex;
+    display: flex;
+  }
+  nav {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    background: #ccc;
+    padding: 20px;
+  }
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  p3 {
+
+    font-size: 25px;
+  }
